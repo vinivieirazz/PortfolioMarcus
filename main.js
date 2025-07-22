@@ -3,7 +3,7 @@ const userData = {
     designation: "Estudante de Ciência da Computação - IFSC",
     about: "Sou estudante de Ciência da Computação no IFSC campus Lages. Apaixonado por tecnologia e desenvolvimento de soluções criativas, atualmente estou focado em aprender e aplicar conceitos de programação, desenvolvimento web e lógica computacional, sempre buscando evoluir minhas habilidades técnicas e pessoais. Gosto de desafios e acredito que a prática constante é o caminho para transformar conhecimento em resultado.",
     projects: [
-        { title: "Projeto de Templates", link: "https://github.com/seuGit/site-simples" }
+        { title: "Projeto de Templates", link: "https://github.com/vinivieirazz/layoutscss" }
     ],
     contact: {
         email: "marcus.vv20@aluno.ifsc.edu.br"

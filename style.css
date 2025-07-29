@@ -147,6 +147,38 @@ body.light .profile-pic {
 
 }
 
+#contact a.btn-curriculo {
+  display: inline-block;
+  background-color: #0077cc;
+  color: #fff;
+  font-weight: 600;
+  padding: 6px 20px;
+  border-radius: 16px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+#contact a.btn-curriculo:hover {
+  background-color: #0056b3;
+  transform: scale(1.03);
+}
+
+.contact-row {
+  display: flex;
+  align-items: center;
+  gap: 280px;
+  flex-wrap: wrap;
+}
+
+.contact-row .email {
+  margin: 0;
+  font-size: 1rem;
+  color: #fff;
+}
+
+.btn-curriculo {
+  white-space: nowrap;
+}
 
 h2 {
     border-bottom: 2px solid #333;
